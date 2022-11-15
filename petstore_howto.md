@@ -24,7 +24,7 @@ Finally, the **/user** endpoint provides services related to users of the Petsto
 
 ## /pet/findByStatus
 
-For this tutorial, we will utilize the [/pet/findByStatus](https://petstore.swagger.io/#/pet/findPetsByStatus) method.
+For this tutorial, we will utilize the [/pet/findByStatus](https://petstore.swagger.io/#/pet/findPetsByStatus) method to retrieve a list of pets.
 
 This GET call takes one parameter denoting the pet status and will return an array of all Pet objects in the database which have that status.
 
