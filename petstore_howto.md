@@ -91,9 +91,9 @@ For instance:
 
 Employ whatever additional HTML and CSS you wish.
 
-Next, we will utilize the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to call the Petstore API and gather the JSON response. The Fetch API's fetch() method is a simple tool to asynchronously fetch resources from a target. 
+Next, we will utilize the [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to call the Petstore API, gather the JSON response, and feed the data into a table. The Fetch API's fetch() method is a simple tool to asynchronously fetch resources from a target. 
 
-This can be achieved with the following Javascript:
+We can achieve this with the following Javascript:
 
 ```js
 //Call the API
