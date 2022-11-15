@@ -10,7 +10,7 @@ Let's get started!
 ### Endpoints
 The Petstore API has 3 endpoints: /pet, /store, and /user.
 
-The **/pet** endpoint provides a number services related to, you guessed it, pets!
+The **/pet** endpoint provides a number of services related to, you guessed it, pets!
 
 [View the /pet endpoint.](https://petstore.swagger.io/#/pet)
 
