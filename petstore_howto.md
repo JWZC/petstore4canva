@@ -34,21 +34,27 @@ The Pet object is structured thusly:
 
 ```json
 {
+  // Pet ID number
   "id": 0,
+  // Category object, containing a category ID and name.
   "category": {
     "id": 0,
     "name": "string"
   },
+  // Pet name
   "name": "doggie",
+  //URL to image of pet
   "photoUrls": [
     "string"
   ],
+  // Tag object, which contains additional metadata
   "tags": [
     {
       "id": 0,
       "name": "string"
     }
   ],
+  // Pet status
   "status": "available"
 }
 ```
