@@ -1,4 +1,4 @@
-# The Swagger Petstore API how-to guide
+# The Swagger Petstore API tutorial
 
 Welcome! If you're looking to familiarize yourself with the Swagger Petstore API, you've come to the right place. This how-to guide will provide a brief introduction to the Petstore API and provide a simple, step-by-step example of how to to use the API and render the response in a web page.
 
@@ -57,6 +57,10 @@ The Pet object is structured thusly:
 
 You can test the method via the tool in the [method documentation](https://petstore.swagger.io/#/pet/findPetsByStatus).
 
+Click the 'Try it out' button, select the query parameter, and ensure that the content-type is set to 'application/json'. 
+
+
+Click execute to run the call.
 
 
 
