@@ -88,7 +88,6 @@ For instance:
 ```html
 <body>
   <h1>Available pets</h1>
-  <hr>
     <table id="pets"></table>
   <script src="main.js"></script>
 </body>
