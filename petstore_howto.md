@@ -36,7 +36,7 @@ The Pet object is structured thusly:
 {
   // Pet ID number
   "id": 0,
-  // Category object, containing a category ID and name.
+  // Category object, containing a category ID and name
   "category": {
     "id": 0,
     "name": "string"
