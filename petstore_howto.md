@@ -82,7 +82,7 @@ curl -X 'GET' \
 
 We're going to build a simple website with [Codepen](https://codepen.io) to call the API and render the results in a table.
 
-Create a table in HTML with the ID 'Pets' in the body element.
+Create a table in HTML with the ID 'pets' in the body element.
 
 For instance: 
 ```html
