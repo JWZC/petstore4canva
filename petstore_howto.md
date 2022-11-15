@@ -24,12 +24,40 @@ Finally, the **/user** endpoint provides services related to users of the Petsto
 
 ## /pet/findByStatus
 
-For this demonstration, we will utilize the [/pet/findByStatus](https://petstore.swagger.io/#/pet/findPetsByStatus) method.
+For this tutorial, we will utilize the [/pet/findByStatus](https://petstore.swagger.io/#/pet/findPetsByStatus) method.
 
-This GET call takes one parameter containing the pet status and will query the server for any matches. The response content types is JSON or XML.
+This GET call takes one parameter denoting the pet status and will return an array of all Pet objects in the database which have that status.
+
+The API returns data in both XML and JSON. For this tutorial we'll use JSON.
+
+The Pet object is structured thusly: 
+
+```json
+{
+  "id": 0,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "doggie",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
+```
+
+## Test the method
+
+You can test the method via the tool in the [method documentation](https://petstore.swagger.io/#/pet/findPetsByStatus).
 
 
 
-## Test call with Postman
 
 ## Render response in Codepen
