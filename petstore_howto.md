@@ -102,14 +102,14 @@ Next, we will utilize the [Fetch API](https://developer.mozilla.org/en-US/docs/W
 We can achieve this with the following Javascript:
 
 ```js
-//Call the API
+// Call the API
 fetch("https://petstore.swagger.io/v2/pet/findByStatus?status=available")
-  //Convert the response to JSON
+  // Convert the response to JSON
   .then((response) => response.json())
   .then((json) => {
-    //Create a variable to store the table headers
+    // Create a variable to store the table headers
     let li = `<tr><th>ID</th><th>Name</th><th>Status</th>`;
-    //Iterate through response and populate rows
+    // Iterate through response and populate rows
     json.forEach((pet) => {
       li += `<tr>
         <td>${pet.id}</td>
@@ -117,7 +117,7 @@ fetch("https://petstore.swagger.io/v2/pet/findByStatus?status=available")
         <td>${pet.status}</td>
       </tr>`;
     });
-    //Display the table
+    // Display the table
     document.getElementById("pets").innerHTML = li;
   });
 ```
