@@ -90,7 +90,6 @@ For instance:
   <h1>Available pets</h1>
   <hr>
     <table id="pets"></table>
-  </div>
   <script src="main.js"></script>
 </body>
 ```
