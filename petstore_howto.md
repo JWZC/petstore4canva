@@ -43,7 +43,7 @@ The Pet object is structured thusly:
   },
   // Pet name
   "name": "doggie",
-  //URL to image of pet
+  // URL to image of pet
   "photoUrls": [
     "string"
   ],
