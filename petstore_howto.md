@@ -63,7 +63,7 @@ The Pet object is structured thusly:
 
 For our example, we're going to produce a list of all the pets with a status of 'Available'.
 
-You can test the method via the tool in the [method documentation](https://petstore.swagger.io/#/pet/findPetsByStatus).
+You can test the method via the tool in the [documentation](https://petstore.swagger.io/#/pet/findPetsByStatus).
 
 Click the 'Try it out' button, set the query parameter to 'Available', and ensure that the content-type is set to 'application/json'. 
 
