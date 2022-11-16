@@ -12,7 +12,7 @@ The Petstore API documentation is hosted in [Swagger UI](https://swagger.io/tool
 ### Endpoints
 The Petstore API has 3 endpoints: /pet, /store, and /user.
 
-The **/pet** endpoint provides a number of services related to, you guessed it, pets!
+The **/pet** endpoint provides several services related to, you guessed it, pets!
 
 [View the /pet documentation.](https://petstore.swagger.io/#/pet)
 
@@ -117,7 +117,7 @@ fetch("https://petstore.swagger.io/v2/pet/findByStatus?status=available")
     document.getElementById("pets").innerHTML = li;
   });
 ```
-This will provide a simple table contianing the ID, name, and availability of each Pet object in the Petstore APIs database. More columns can be added to include more data fields from the Pet object as needed.
+This will provide a simple table containing the ID, name, and availability of each Pet object in the Petstore APIs database. More columns can be added to include more data fields from the Pet object as needed.
 
 [Click here to view an example Pen](https://codepen.io/jwcummings/pen/ZERyNYa).
 
