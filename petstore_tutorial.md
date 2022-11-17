@@ -116,6 +116,7 @@ This will provide a simple table containing the ID, name, and availability of ea
 Congratulations! You're all done.
 
 ## Learn more
+For more information, refer to the links below:
 - [Petstore API](https://petstore.swagger.io)
 - [Codepen](https://codepen.io)
 - [Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
