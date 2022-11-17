@@ -10,25 +10,17 @@ Let's get started!
 The Petstore API documentation is hosted in [Swagger UI](https://swagger.io/tools/swagger-ui/), an interactive API documentation tool.
 
 ### Endpoints
-The Petstore API has 3 endpoints: /pet, /store, and /user.
+The Petstore API has 3 endpoints: /pet, /store, and /user:
 
-The **/pet** endpoint provides several services related to, you guessed it, pets!
-
-[View the /pet documentation.](https://petstore.swagger.io/#/pet)
-
-The **/store** endpoint provides services related to customer orders and store inventory.
-
-[View the /store documentation.](https://petstore.swagger.io/#/store)
-
-Finally, the **/user** endpoint provides services related to users of the Petstore.
-
-[View the /user documentation.](https://petstore.swagger.io/#/user)
+- The [**/pet** endpoint](https://petstore.swagger.io/#/pet) provides several services related to, you guessed it, pets!
+- The [**/store** endpoint](https://petstore.swagger.io/#/store) provides services related to customer orders and store inventory.
+- The [**/user** endpoint](https://petstore.swagger.io/#/user) provides services related to users of the Petstore.
 
 ## /pet/findByStatus
 
-For this tutorial, we will utilize the [/pet/findByStatus](https://petstore.swagger.io/#/pet/findPetsByStatus) method to retrieve a list of pets.
+For this tutorial, we will utilize the [/pet/findByStatus](https://petstore.swagger.io/#/pet/findPetsByStatus) method to retrieve a list of pets from the server.
 
-This GET call takes one parameter denoting the pet status and will return an array of all Pet objects in the database which have that status.
+This GET call takes one parameter denoting the pet status and will return an array of all Pet objects in the database which match that status.
 
 This method returns data in either XML or JSON. For this tutorial, we'll work with a JSON response.
 
