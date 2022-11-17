@@ -4,7 +4,7 @@ Thank you taking the time to review my challenge. It was a lot of fun. You will 
 
 ## Key decisions and thought process
 ### Content
-This was an interesting challenge. The most difficult part was providing the correct level of detail for the audience. The instructions state that the audience is familiar with APIs, HTML and JS, but not familiar with the Petstore API. Therefore I focused on providing contextual information about the API and general information about it's usage, without going into too much technical detail, as the assumption is that a developer familiar with APIs should have no difficulty with this relatively straightforward API. Wherever possible, I linked out to relevant information instead of repeating it in the tutorial for the sake of concision. 
+This was an interesting challenge. The most difficult part was providing the correct level of detail for the audience. The instructions state that the audience is familiar with APIs, HTML and JS, but not familiar with the Petstore API. Therefore, I focused on providing contextual information about the API and general information about its usage, without going into too much technical detail, as the assumption is that a developer familiar with APIs should have no difficulty with this relatively straightforward API. Wherever possible, I linked out to relevant information instead of repeating it in the tutorial for the sake of concision. 
 
 I introduced the API endpoints with a brief description of each and chose to simply link to the source documentation instead of repeating their details in my tutorial.
 
