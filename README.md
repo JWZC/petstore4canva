@@ -14,7 +14,7 @@ The testing instructions were likewise brief, as I can assume that a developer w
 
 For the web page, I aimed to provide exactly the necessary amount of information without any unnecessary detail. Instead of reposting my entire Codepen solution, I chose to link to it, and only included the most necessary HTML and JS in the code snippets. I suggested that the reader can add whatever additional code they wish. I decided to comment the JS code snippet here as it's possible the reader may not be familiar with the ``fetch()`` method so I thought that documenting the code itself would be prudent.
 
-Lastly, I concluded the tutorial with a few links to relevant resources. I always conclude documentation with links to other resources. An article should never conclude with a 'dead end'. It's always better to give your reader additional resources and links to follow instead of just abruptly ending.
+Lastly, I concluded the tutorial with a few links to relevant resources. I always conclude documentation with links to other resources. I believe that an article should never conclude with a 'dead end'. It's always better to give your reader additional resources and links to follow instead of just abruptly ending.
 
 ### Style and tone
 
