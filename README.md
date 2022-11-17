@@ -1,6 +1,6 @@
 # Canva Technical Writer Challenge #1
 
-Thank you taking the time to review my challenge. It was a lot of fun. You will find the markdown file containing the assignment [here](petstore_tutorial.md).
+Thank you for taking the time to review my challenge. It was a lot of fun. You will find the markdown file containing the assignment [here](petstore_tutorial.md).
 
 ## Key decisions and thought process
 ### Content
