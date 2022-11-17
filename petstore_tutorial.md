@@ -1,6 +1,6 @@
 # Petstore API tutorial
 
-Welcome! If you're looking to familiarize yourself with the concept of APIs and how to use them, you've come to the right place. This how-to guide will provide a brief introduction to the Petstore API and provide a simple, step-by-step tutorial for how to to use the API and render the response in a web page.
+Welcome! If you're looking to familiarize yourself with the concept of APIs and how to use them, you've come to the right place. This tutorial will provide a brief introduction to the Petstore API and provide a simple, step-by-step tutorial for how to to use the API and render the response in a web page.
 
 Let's get started!
 
